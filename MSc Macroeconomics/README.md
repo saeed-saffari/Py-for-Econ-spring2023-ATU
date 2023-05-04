@@ -4,10 +4,10 @@
 
 - **Python Setup**
 - [**Object and Data Structure Basics**](https://github.com/saeed-saffari/Py-for-Econ-spring2023-ATU/blob/main/MSc%20Macroeconomics/1.%20Data%20Structure%20Basics.ipynb)
-- [**Python Statements and Functions**]() 
+- [**Python Statements and Functions**](https://github.com/saeed-saffari/Py-for-Econ-spring2023-ATU/blob/main/MSc%20Macroeconomics/2.%20Conditional%20Control%20and%20Function.ipynb) 
 - **Packages** 
-  - [**NumPy and Matplotlib**]()
-  - [**Pandas** ]()
+  - [**NumPy**](https://github.com/saeed-saffari/Py-for-Econ-spring2023-ATU/blob/main/MSc%20Macroeconomics/3.%20NumPy.ipynb)
+  - [**Matplotlib** ](https://github.com/saeed-saffari/Py-for-Econ-spring2023-ATU/blob/main/MSc%20Macroeconomics/4.%20Matplotlib.ipynb)
 
 
 ## The requirements and recommendations
